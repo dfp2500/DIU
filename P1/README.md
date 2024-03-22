@@ -1,7 +1,7 @@
 ## Paso 1. UX User & Desk Research & Analisis 
 
 
-![Método UX](img/Competitive.png) **1.a User Reseach Plan**
+![Método UX](DIU/img/Competitive.png) **1.a User Reseach Plan**
 -----
 
 El plan de este proyecto es recopilar información sobre cómo los usuarios organizan sus experiencias gastronómicas con el propósito de sacar una base de ideas e información para,
@@ -9,7 +9,7 @@ El plan de este proyecto es recopilar información sobre cómo los usuarios orga
  queda explicado en [User Research Plan](User_Research_Plan.pdf).
 
 
-![Método UX](img/Competitive.png) 1.b Competitive Analysis
+![Método UX](DIU/img/Competitive.png) 1.b Competitive Analysis
 -----
 
 Como ejemplos para el analisis de la competencia hemos elegido 3 paginas diferentes de experiencias gastronicas en granada, las dos que se proponen en el guion de la practica: 
@@ -21,7 +21,7 @@ opciones y de tenerlas como de buenas son estas. Ademas de la explicacion se añ
 Para el analisis que se va a realizar posteriormente hemos decidido elegir a Granada Cooking Experience como la propuesta a nalizar debido a que es en la que mas inconsistencias 
 hemos encontrado y pensamos que es un buen caso de estudio para sacar conclusiones sobre lo que no se deberia hacer.
 
-![Método UX](img/Persona.png) 1.c Persona
+![Método UX](DIU/img/Persona.png) 1.c Persona
 -----
 
 Se han creado 2 personas ficticias para ser usadas a la hora de analizar la experiencia de un posible usuario interesado en la pagina elegida.
@@ -31,7 +31,7 @@ Se han creado 2 personas ficticias para ser usadas a la hora de analizar la expe
 
 ![Eric](Eric_Bouba.png)
 
-![Método UX](img/JourneyMap.png) 1.d User Journey Map
+![Método UX](DIU/img/JourneyMap.png) 1.d User Journey Map
 ----
 
 - **Journey Map Marta Sanchez**:
@@ -40,7 +40,7 @@ Se han creado 2 personas ficticias para ser usadas a la hora de analizar la expe
 
 ![JourneyEric](Eric_Journey.png)
 
-![Método UX](img/usabilityReview.png) 1.e Usability Review & Briefing
+![Método UX](DIU/img/usabilityReview.png) 1.e Usability Review & Briefing
 ----
 
 - **Enlace al documento**:  [Usability Review](Usability-review.pdf) 
