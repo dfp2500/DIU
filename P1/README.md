@@ -26,7 +26,10 @@ hemos encontrado y pensamos que es un buen caso de estudio para sacar conclusion
 
 Se han creado 2 personas ficticias para ser usadas a la hora de analizar la experiencia de un posible usuario interesado en la pagina elegida.
 
-- **Marta Sanchez (Creada por Miguel Montiel Carrasco)**: una señora mayor que a su alta edad se ve sola y con mucho tiempo tras la muerte de su marido y busca experiencias que le permitan entretenerse y tener compañia.
+- **[Marta Sanchez](Marta_Sanchez.png) (Creada por Miguel Montiel Carrasco)**: una señora mayor que a su alta edad se ve sola y con mucho tiempo tras la muerte de su marido y busca experiencias que le permitan entretenerse y tener compañia.
+
+![Marta](Marta_Sanchez.png)
+
 - **[Eric Bouba](Eric_Bouba.png) (Creado por Daniel Fernández Jiménez)**: patinador profesional que fue fichado por su entrenador y ahora vive en Granada para poder entrenar y proseguir su carrera como patinador dejando el calor de su familia en Camerun, su tierra natal. Debido al estres que le produce su situacion busca una experiencia que le permita olvidarse de sus preocupaciones por un momento.
 
 ![Eric](Eric_Bouba.png)
@@ -34,9 +37,11 @@ Se han creado 2 personas ficticias para ser usadas a la hora de analizar la expe
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-- **Journey Map Marta Sanchez**:
+- **[Journey Map Marta Sanchez](Marta_Journey.png)**: Marta quiere aprender nuevas recetas ya que siempre le ha gustado mucho cocinar y ademas busca una forma de conocer gente. Su hijo le muestra Granada Cooking Experience e intenta buscar y apuntarse a uno de los que le gusten pero debido a su avanzada edad, no es muy diestra con la tecnologia y ademas encuentra la pagina poco intuitiva y con muchas opciones por lo que se abruma y decide perdile ayuda a sus hijos. Sus hijos la registran mientras que ella intenta recordar el proceso pero le cuesta porque lo nota muy complejo. Esto causa que la proxima ocasion suceda lo mismo.
 
-- **[Journey Map Eric Bouba](Eric_Journey.png)**: EL propositode eric es el de apuntarse a uno de los talleres de cocina de Granada Cooking Experience que le ha propuesto su entrenador. La experiencia comienza bien ya que viniendo de un comentario positivo de su entrenador sobre la pagina le apetece mucho intentar probar esta nueva experiencia. Sin embargo, al intentar reservar por despiste y debido a su bajo nivel de entendimiento tecnologico, se le dificulta de primeras encontar la informacionm sobre el taller como puede ser la fecha que es la razon de su siguiente problema, ya que, al momento de intentar reservar mediante la funcion de calendario de la pagina es incapaz de ver fechas disponibles para dicho taller ya que el calendario comienza en el mes en el que se esta y no en el que transcurre el taller. Al no entenderlo y no ver ninguna forma de hacer la reserva se frustra y decide abandonar la idea.
+![JourneyMarta](Marta_Journey.png)
+
+- **[Journey Map Eric Bouba](Eric_Journey.png)**: El proposito de eric es el de apuntarse a uno de los talleres de cocina de Granada Cooking Experience que le ha propuesto su entrenador. La experiencia comienza bien ya que viniendo de un comentario positivo de su entrenador sobre la pagina le apetece mucho intentar probar esta nueva experiencia. Sin embargo, al intentar reservar por despiste y debido a su bajo nivel de entendimiento tecnologico, se le dificulta de primeras encontar la informacionm sobre el taller como puede ser la fecha que es la razon de su siguiente problema, ya que, al momento de intentar reservar mediante la funcion de calendario de la pagina es incapaz de ver fechas disponibles para dicho taller ya que el calendario comienza en el mes en el que se esta y no en el que transcurre el taller. Al no entenderlo y no ver ninguna forma de hacer la reserva se frustra y decide abandonar la idea.
 
 ![JourneyEric](Eric_Journey.png)
 
