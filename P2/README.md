@@ -53,13 +53,13 @@ En ambos las partes comunes son, la barra principal que contiene un logo, las op
 ya que hemos visualizado el wireframe como si aun no estuvieramos logueados. En caso de estarlo, en ese espacio apareceria nuestra imagen de perfil que al pulsarla
 nos dirigiria a nuestra pagina de perfil de usuario. 
 
-- **[Iniciar Sesion](IniciarSesion.png): Consta de un campo de texto para introducir el usuario y la constraseña y un boton para ingresar. Ademas, hemos incluido
+- [Iniciar Sesion](IniciarSesion.png): Consta de un campo de texto para introducir el usuario y la constraseña y un boton para ingresar. Ademas, hemos incluido
 un enlace en caso de no recordar la contraseña. En este caso, hay una excepcion y es que en el boton que antes era iniciar sesion en la barra principal
 ahora pone registrarse por si el usuario aun no tuviera cuenta.
 
 ![Iniciar](IniciarSesion.png)
 
-- **[Consultar Perfil de Usuario](PaginaPerfil.png): Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
+- [Consultar Perfil de Usuario](PaginaPerfil.png): Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
 para que al entrar a su perfil se le pueda conocer y tras esto una parte con todos los comentarios realizados por dicho usuario sobre los talleres asistidos.
 Ademas se puede apreciar que el perfil tiene una imagen personaliable de fondo.
 
