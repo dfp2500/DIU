@@ -5,15 +5,18 @@
 ----
 
 En base a la informacion recabada en la anterior practica y haciendo caso a las experiencias de nuestros usuarios ficticios,
-hemos realizado un malla receptora de informacion con la que hemos desarrollado nuesvas ideas que pretendemos aplicar a nuestro diseño final
+hemos realizado un malla receptora de informacion con la que hemos desarrollado nuevas ideas que pretendemos aplicar a nuestro diseño final
 de forma que se potencie la parte social de esta.
   
 ![Malla](MallaReceptora.png) 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
-Queremos desarrollar una pagina para las reservas y gestion de nusetros talleres gastronomicos en los que la gente pueda aprender sobre cocinas de diferentes culturas y queremos que esta experiencia se sienta personal y compartible, para ello queremos que la gente tenga perfiles a modo de mini red social en la que puedan compartir con los demas multimedia y comentarios de los talleres a los que asisten y que estos perfiles sean muy personalizables de forma que cada persona
-pueda demostrar sus gustos a los demas.
+Queremos desarrollar una pagina para las reservas y gestion de nusetros cursos gastronomicos en los que la gente pueda aprender sobre cocinas de diferentes culturas 
+y queremos que esta experiencia se sienta personal y compartible, para ello queremos que la gente tenga perfiles a modo de mini red social en la que puedan compartir con los 
+demas multimedia y comentarios de los talleres a los que asisten y que estos perfiles sean muy personalizables de forma que cada persona pueda demostrar sus gustos a los demas.
+
+Para ello hemos realizado una propuesta de valor denominada: SocialCooking en la que mediante una tabla recabamos nuestras intenciones para esta producto.
 
 ![Propuesta](PropuestaValor.png)
 
@@ -25,7 +28,7 @@ categorizadas en base a la importancia de estas para los usuarios registrados y 
 
 ![Tareas](AnalisisTareas.png)
 
-Hemos identificado las tareas principales: Iniciar sesion, consultar taller, consultar perfil de usuario y reservar taller. De estas 4 hemos decidido hacer un user flow map para las tres primeras que indica los pasos que se han de seguir para su realizacion.
+Hemos identificado las tareas principales: Iniciar sesion, consultar taller y consultar perfil de usuario. Tras esto hemos realizado un user flow map para las tres que indica los pasos que se han de seguir para su realizacion.
 
 ![Flow](UserFlow.png)
 
@@ -36,9 +39,9 @@ Sitemap con la estructura de la web. Algunas funcionalidades solo se pueden acce
 
 ![SiteMap](Sitemap.png)
 
-LABELING
+Conceptos propuestos en el sitemap explicados.
 
-![Labeling](Labeling.png)
+![Labeling](Labelling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
@@ -50,13 +53,13 @@ En ambos las partes comunes son, la barra principal que contiene un logo, las op
 ya que hemos visualizado el wireframe como si aun no estuvieramos logueados. En caso de estarlo, en ese espacio apareceria nuestra imagen de perfil que al pulsarla
 nos dirigiria a nuestra pagina de perfil de usuario. 
 
-Iniciar Sesion: Consta de un campo de texto para introducir el usuario y la constraseña y un boton para ingresar. Ademas, hemos incluido
+- **[Iniciar Sesion](IniciarSesion.png): Consta de un campo de texto para introducir el usuario y la constraseña y un boton para ingresar. Ademas, hemos incluido
 un enlace en caso de no recordar la contraseña. En este caso, hay una excepcion y es que en el boton que antes era iniciar sesion en la barra principal
 ahora pone registrarse por si el usuario aun no tuviera cuenta.
 
 ![Iniciar](IniciarSesion.png)
 
-Consultar Perfil de Usuario: Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
+- **[Consultar Perfil de Usuario](PaginaPerfil.png): Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
 para que al entrar a su perfil se le pueda conocer y tras esto una parte con todos los comentarios realizados por dicho usuario sobre los talleres asistidos.
 Ademas se puede apreciar que el perfil tiene una imagen personaliable de fondo.
 
