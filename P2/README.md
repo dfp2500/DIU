@@ -1,29 +1,41 @@
-## DIU - Practica2, entregables
-
-### Ideación 
-* Malla receptora de información 
-* Mapa de empatía
-* Point of View 
+## Paso 2. UX Design  
 
 
-### PROPUESTA DE VALOR
-* ScopeCanvas
+![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid
+----
+
+En base a la informacion recabada en la anterior practica y haciendo caso a las experiencias de nuestros usuarios ficticios,
+hemos realizado un malla receptora de informacion con la que hemos desarrollado nuesvas ideas que pretendemos aplicar a nuestro diseño final
+de forma que se potencie la parte social de esta.
+  
+![Malla](MallaReceptora.png) 
+
+![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
+----
+Queremos desarrollar una pagina para las reservas y gestion de nusetros talleres gastronomicos en los que la gente pueda aprender sobre cocinas de diferentes culturas y queremos que esta experiencia se sienta personal y compartible, para ello queremos que la gente tenga perfiles a modo de mini red social en la que puedan compartir con los demas multimedia y comentarios de los talleres a los que asisten y que estos perfiles sean muy personalizables de forma que cada persona
+pueda demostrar sus gustos a los demas.
+
+![Propuesta](PropuestaValor.png)
+
+![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
+-----
+
+>>> Definir "User Map" y "Task Flow" ... 
 
 
-### TASK ANALYSIS
-
-* User Task Matrix 
-* User/Task flow
+![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
+----
 
 
-### ARQUITECTURA DE INFORMACIÓN
+>>> Identificar términos para diálogo con usuario  
 
-* Sitemap 
-* Labelling 
-
-
-### Prototipo Lo-FI Wireframe 
+Término | Significado     
+| ------------- | -------
+  Login¿?  | acceder a plataforma
 
 
-### Conclusiones  
-(incluye valoración de esta etapa)
+![Método UX](img/Wireframes.png) 2.d Wireframes
+-----
+
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+
