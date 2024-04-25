@@ -20,18 +20,21 @@ pueda demostrar sus gustos a los demas.
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+Para identificar las tareas principales y su relevancia para los usuarios primeramente hemos desarrollado una tabla en la que se recogen todas las funciones
+categorizadas en base a la importancia de estas para los usuarios registrados y los no registrados.
 
+![Tareas](AnalisisTareas.png)
+
+USER FLOW
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+Sitemap con la estructura de la web. Algunas funcionalidades solo se pueden acceder si se inicia sesión en la aplicación.
 
->>> Identificar términos para diálogo con usuario  
+![SiteMap](Sitemap.png)
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+LABELING
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
