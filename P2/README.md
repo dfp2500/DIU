@@ -38,13 +38,38 @@ Sitemap con la estructura de la web. Algunas funcionalidades solo se pueden acce
 
 LABELING
 
+![Labeling](Labeling.png)
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
-Wireframes estaticos
+Hemos realizado los bocetos o wireframes para las tres tareas mas relevantes de nuestro Task Analysis. Siendo estas: Iniciar Sesion,
+Consultar perfil de usuario y Consultar curso.
 
-![Estaticos](Wireframe1.png)
+En ambos las partes comunes son, la barra principal que contiene un logo, las opciones principales de la pagina a modo de enlaces y la opcion de iniciar sesion
+ya que hemos visualizado el wireframe como si aun no estuvieramos logueados. En caso de estarlo, en ese espacio apareceria nuestra imagen de perfil que al pulsarla
+nos dirigiria a nuestra pagina de perfil de usuario. 
 
-Wireframe dinamico usando breakpoints
+Iniciar Sesion: Consta de un campo de texto para introducir el usuario y la constraseña y un boton para ingresar. Ademas, hemos incluido
+un enlace en caso de no recordar la contraseña. En este caso, hay una excepcion y es que en el boton que antes era iniciar sesion en la barra principal
+ahora pone registrarse por si el usuario aun no tuviera cuenta.
+
+![Iniciar](Iniciar.png)
+
+Consultar Perfil de Usuario: Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
+para que al entrar a su perfil se le pueda conocer y tras esto una parte con todos los comentarios realizados por dicho usuario sobre los talleres asistidos.
+Ademas se puede apreciar que el perfil tiene una imagen personaliable de fondo.
+
+![Perfil](Perfil.png)
+
+Haciendo uso del plugin Breakpoints de figma, hemos diseñado un wireframe responsive para distintos tamaños de pantalla, el cual cambia
+de formato de disposicion del contenido en funcion del tamaño.
+
+Se trata del wireframe para la consulta de un curso en el que se muestran un video de la actividad, fotos y una breve descripcion y finaliza
+con una seccion de valoraciones de este. Al ir cambiando el tamaño de pantalla se ira adaptando de forma que se vean 4 fotos, si se hace mas chico
+solo una y en caso de hacerse aun mas chico se dispondran la fotos en un carrousel tras el video de forma que no ocupen espacio adicional en panmtalla.
+
+![Curso](Curso.png)
+
+El enlace para verlo: https://www.figma.com/file/Sc5pbdElCHTUE2OdFV6kaD/Wireframe-Pagina-Taller-Breakpoints?type=design&mode=design&t=IZ4YYCYhdcT0IDyv-1
 
