@@ -42,5 +42,9 @@ LABELING
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+Wireframes estaticos
+
+![Estaticos](Wireframe1.png)
+
+Wireframe dinamico usando breakpoints
 
