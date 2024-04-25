@@ -25,7 +25,9 @@ categorizadas en base a la importancia de estas para los usuarios registrados y 
 
 ![Tareas](AnalisisTareas.png)
 
-USER FLOW
+Hemos identificado las tareas principales: Iniciar sesion, consultar taller, consultar perfil de usuario y reservar taller. De estas 4 hemos decidido hacer un user flow map para las tres primeras que indica los pasos que se han de seguir para su realizacion.
+
+![Flow](UserFlow.png)
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
