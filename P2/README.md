@@ -54,13 +54,13 @@ Iniciar Sesion: Consta de un campo de texto para introducir el usuario y la cons
 un enlace en caso de no recordar la contraseña. En este caso, hay una excepcion y es que en el boton que antes era iniciar sesion en la barra principal
 ahora pone registrarse por si el usuario aun no tuviera cuenta.
 
-![Iniciar](Iniciar.png)
+![Iniciar](IniciarSesion.png)
 
 Consultar Perfil de Usuario: Consta de una foto de perfil personalizable por el usuario ademas de su nombre de usuario, una breve descripcion personal
 para que al entrar a su perfil se le pueda conocer y tras esto una parte con todos los comentarios realizados por dicho usuario sobre los talleres asistidos.
 Ademas se puede apreciar que el perfil tiene una imagen personaliable de fondo.
 
-![Perfil](Perfil.png)
+![Perfil](PaginaPerfil.png)
 
 Haciendo uso del plugin Breakpoints de figma, hemos diseñado un wireframe responsive para distintos tamaños de pantalla, el cual cambia
 de formato de disposicion del contenido en funcion del tamaño.
@@ -69,7 +69,7 @@ Se trata del wireframe para la consulta de un curso en el que se muestran un vid
 con una seccion de valoraciones de este. Al ir cambiando el tamaño de pantalla se ira adaptando de forma que se vean 4 fotos, si se hace mas chico
 solo una y en caso de hacerse aun mas chico se dispondran la fotos en un carrousel tras el video de forma que no ocupen espacio adicional en panmtalla.
 
-![Curso](Curso.png)
+![Curso](PaginaCurso.png)
 
 El enlace para verlo: https://www.figma.com/file/Sc5pbdElCHTUE2OdFV6kaD/Wireframe-Pagina-Taller-Breakpoints?type=design&mode=design&t=IZ4YYCYhdcT0IDyv-1
 
