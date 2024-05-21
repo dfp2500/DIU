@@ -174,9 +174,17 @@ SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimi
 
 Motivados por las historias de Marta y Eric, identificamos la necesidad de una plataforma que no solo permitiera inscribirse en talleres de cocina, sino que también funcionara como una red social culinaria. Utilizando herramientas como el Scope Canvas, reunimos ideas y objetivos para definir las características clave de la aplicación.
 
+![Propuesta](P2/PropuestaValor.png)
+
 **Diseño Conceptual**
 
 Iniciamos el proceso con la creación de bocetos y un wireframe básico para establecer la estructura y navegación de SocialCooking. Estos primeros diseños nos ayudaron a visualizar cómo los usuarios interactuarían con la plataforma y a identificar los elementos esenciales para una experiencia fluida y atractiva.
+
+![Iniciar](P2/IniciarSesion.png)
+
+![Perfil](P2/PaginaPerfil.png)
+
+![Curso](P2/PaginaCurso.png)
 
 **Definición de la Identidad Visual**
 
