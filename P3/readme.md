@@ -37,7 +37,7 @@ Suigiendo todo lo explicado previamente, se ha desarrollado finalmente un protot
 
 Ademas se ha diseñado de forma interactiva y puede ser probada [aquí](https://www.figma.com/proto/aRtI9ezTnWwBnwNhYpuuUx/MockUp?node-id=3-52&t=ZCuXN5TDsYLTzZ7y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A52)
 
-Añadimos un [video] probando las funcinalidades clave del prototipo.
+Añadimos un [video](/P3/videoApp.mp4) probando las funcinalidades clave del prototipo.
 
 ![Método UX](/img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
@@ -89,7 +89,7 @@ Con los diseños iniciales, creamos un prototipo interactivo utilizando Figma. E
 
 El prototipo interactivo se puede ver [aquí](https://www.figma.com/proto/aRtI9ezTnWwBnwNhYpuuUx/MockUp?node-id=3-52&t=ZCuXN5TDsYLTzZ7y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A52).
 
-Añadimos un [video] probando las funcinalidades clave del prototipo.
+Añadimos un [video](/P3/videoApp.mp4) probando las funcinalidades clave del prototipo.
 
 ### Reflexiones y Resultados
 
