@@ -190,7 +190,7 @@ Iniciamos el proceso con la creación de bocetos y un wireframe básico para est
 
 El siguiente paso fue desarrollar un moodboard que capturara la esencia de SocialCooking. Seleccionamos imágenes de platos deliciosos, colores vibrantes como el rojo y el rosa, junto con tonos neutros como el blanco, negro y gris, para crear un ambiente cálido y acogedor, y diseñamos un logotipo que evocara el placer de compartir la cocina con los demas. La fuente elegida combina legibilidad y modernidad, reforzando la identidad visual de la aplicación.
 
-![MoodBoard](P3/MoodBoard.pdf)
+![MoodBoard](P3/Moodboard.pdf)
 
 ### Implementación y Diseño Final
 
