@@ -160,10 +160,34 @@ Término | Significado
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
+**Origen y Motivación**
+SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimiento gastronómico y fomentar la interacción social entre los amantes de la cocina. La inspiración surgió al observar las necesidades de personas como Marta Sánchez, una señora mayor que busca entretenimiento y compañía tras la pérdida de su esposo, y Eric Bouba, un patinador profesional de Camerún que vive en Granada y necesita una manera de aliviar el estrés y conectar con otros a través de la cocina.
 
+**Proceso Creativo y Desarrollo**
+**Investigación y Conceptualización**
+Motivados por las historias de Marta y Eric, identificamos la necesidad de una plataforma que no solo permitiera inscribirse en talleres de cocina, sino que también funcionara como una red social culinaria. Utilizando herramientas como el Scope Canvas, reunimos ideas y objetivos para definir las características clave de la aplicación.
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+**Diseño Conceptual**
+Iniciamos el proceso con la creación de bocetos y un wireframe básico para establecer la estructura y navegación de SocialCooking. Estos primeros diseños nos ayudaron a visualizar cómo los usuarios interactuarían con la plataforma y a identificar los elementos esenciales para una experiencia fluida y atractiva.
+
+**Definición de la Identidad Visual**
+El siguiente paso fue desarrollar un moodboard que capturara la esencia de SocialCooking. Seleccionamos imágenes de platos deliciosos, colores cálidos y acogedores, y diseñamos un logotipo que evocara el placer de cocinar y compartir. Las fuentes elegidas combinan legibilidad y modernidad, reforzando la identidad visual de la aplicación.
+
+**Implementación y Diseño Final**
+**Página de Inicio**
+Diseñamos una página de inicio que destacara las principales ventajas de SocialCooking. Esta landing page es visualmente atractiva y fácil de navegar, enfocándose en la simplicidad y en resaltar los beneficios de unirse a nuestra comunidad culinaria. Los visitantes pueden encontrar información clara sobre cómo inscribirse en talleres y compartir sus experiencias.
+
+La landing page se puede consultar aquí.
+
+**Prototipo Interactivo**
+Con los diseños iniciales, creamos un prototipo interactivo utilizando Figma. Este prototipo permite a los usuarios explorar la aplicación de manera virtual, mostrando cómo pueden navegar, inscribirse en talleres y compartir sus experiencias culinarias con otros miembros de la comunidad.
+
+El prototipo interactivo se puede ver aquí.
+
+**Reflexiones y Resultados**
+SocialCooking es el resultado de combinar nuestras experiencias con las necesidades de personas como Marta y Eric. La aplicación ofrece una manera accesible y atractiva de aprender nuevas habilidades culinarias y de conectar con otros apasionados por la cocina. A través de un diseño cuidadoso y una identidad visual coherente, hemos creado una plataforma fácil de usar y visualmente atractiva.
+
+SocialCooking no solo facilita el aprendizaje gastronómico, sino que también fortalece la comunidad entre sus usuarios, proporcionando una experiencia culinaria y social enriquecedora.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
