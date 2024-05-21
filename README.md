@@ -162,7 +162,7 @@ Término | Significado
 -----
 ### Origen y Motivación
 
-SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimiento gastronómico y fomentar la interacción social entre los amantes de la cocina. La inspiración surgió al observar las necesidades de personas como Marta Sánchez, una señora mayor que busca entretenimiento y compañía tras la pérdida de su esposo, y Eric Bouba, un patinador profesional de Camerún que vive en Granada y necesita una manera de aliviar el estrés y conectar con otros a través de la cocina.
+SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimiento gastronómico y fomentar la interacción social entre los amantes de la cocina. La inspiración surgió al observar que hay personas con necesidades y objetivos culinarios muy variados como Marta Sánchez, una señora mayor que busca entretenimiento y compañía tras la pérdida de su esposo, y Eric Bouba, un patinador profesional de Camerún que vive en Granada y necesita una manera de aliviar el estrés y conectar con otros a través de la cocina.
 
 ### Proceso Creativo y Desarrollo
 
@@ -176,13 +176,13 @@ Iniciamos el proceso con la creación de bocetos y un wireframe básico para est
 
 **Definición de la Identidad Visual**
 
-El siguiente paso fue desarrollar un moodboard que capturara la esencia de SocialCooking. Seleccionamos imágenes de platos deliciosos, colores cálidos y acogedores, y diseñamos un logotipo que evocara el placer de cocinar y compartir. Las fuentes elegidas combinan legibilidad y modernidad, reforzando la identidad visual de la aplicación.
+El siguiente paso fue desarrollar un moodboard que capturara la esencia de SocialCooking. Seleccionamos imágenes de platos deliciosos, colores vibrantes como el rojo y el rosa, junto con tonos neutros como el blanco, negro y gris, para crear un ambiente cálido y acogedor, y diseñamos un logotipo que evocara el placer de compartir la cocina con los demas. La fuente elegida combina legibilidad y modernidad, reforzando la identidad visual de la aplicación.
 
 ### Implementación y Diseño Final
 
 **Página de Inicio**
 
-Diseñamos una página de inicio que destacara las principales ventajas de SocialCooking. Esta landing page es visualmente atractiva y fácil de navegar, enfocándose en la simplicidad y en resaltar los beneficios de unirse a nuestra comunidad culinaria. Los visitantes pueden encontrar información clara sobre cómo inscribirse en talleres y compartir sus experiencias.
+Diseñamos una página de inicio que destacara las principales ventajas de SocialCooking. Esta landing page es visualmente atractiva y fácil de navegar, enfocándose en la simplicidad y en resaltar los beneficios de unirse a nuestra comunidad culinaria. Los visitantes pueden encontrar información clara sobre la intencionalidad de la aplicacion, los talleres que se ofrecen y donde y como descargarla y registrarse en ella.
 
 La landing page se puede consultar aquí.
 
