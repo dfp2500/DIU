@@ -4,18 +4,19 @@ Prácticas Diseño Interfaces de Usuario 2023-24 (Tema: Experiencias gastronómi
 Grupo: DIU2_ElCumpleDeMarta.  Curso: 2023/24 
 Updated: 22/3/2024
 
-Proyecto: 
+## Proyecto: 
 **SocialCooking**
 
-Descripción: 
+## Descripción: 
 
 Pagina para la reserva y gestion de nuestros cursos gastronomicos en los que la gente pueda aprender sobre cocinas de diferentes culturas. Queremos que esta experiencia se sienta personal y compartible, para ello los usuarios dispondran de perfiles a modo de mini red social en la que puedan compartir con los demas multimedia y comentarios de los talleres a los que asisten. Estos perfiles seran muy personalizables de forma que cada persona pueda demostrar sus gustos a los demas. De esta forma se pretende crear una comunidad de amantas de la cocina que esten dispuestos a aprender y conocer gente nueva basada en sus gustos.
 
 
-Logotipo: 
+## Logotipo: 
+
 ![Logo](Logo.png)
 
-Miembros
+## Miembros
  * :bust_in_silhouette:   Daniel Fernández Jiménez     :octocat:     
  * :bust_in_silhouette:  Miguel Montiel Carrasco     :octocat:
 
