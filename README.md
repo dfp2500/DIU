@@ -190,7 +190,7 @@ Iniciamos el proceso con la creación de bocetos y un wireframe básico para est
 
 El siguiente paso fue desarrollar un moodboard que capturara la esencia de SocialCooking. Seleccionamos imágenes de platos deliciosos, colores vibrantes como el rojo y el rosa, junto con tonos neutros como el blanco, negro y gris, para crear un ambiente cálido y acogedor, y diseñamos un logotipo que evocara el placer de compartir la cocina con los demas. La fuente elegida combina legibilidad y modernidad, reforzando la identidad visual de la aplicación.
 
-![MoodBoard](P3/Moodboard.pdf)
+![MoodBoard](P3/Moodboard.png)
 
 ### Implementación y Diseño Final
 
@@ -198,13 +198,13 @@ El siguiente paso fue desarrollar un moodboard que capturara la esencia de Socia
 
 Diseñamos una landing page que destacara las principales ventajas de SocialCooking. Esta landing page es visualmente atractiva y fácil de navegar, enfocándose en la simplicidad y en resaltar los beneficios de unirse a nuestra comunidad culinaria. Los visitantes pueden encontrar información clara sobre la intencionalidad de la aplicacion, los talleres que se ofrecen y donde y como descargarla y registrarse en ella, ademas de opciones en las que poder informarse mas a fondo, contactar o pedir ayuda.
 
-![LandingPage](P3/LandingPage.pdf)
+![LandingPage](P3/LandingPage.png)
 
 **Prototipo Interactivo**
 
 Con los diseños iniciales, creamos un prototipo interactivo utilizando Figma. Este prototipo permite a los usuarios explorar la aplicación de manera virtual, mostrando cómo pueden navegar, inscribirse en talleres y compartir sus experiencias culinarias con otros miembros de la comunidad.
 
-![MockUp](P3/MockUp.pdf)
+![MockUp](P3/MockUp.png)
 
 El prototipo interactivo se puede ver [aquí](https://www.figma.com/proto/aRtI9ezTnWwBnwNhYpuuUx/MockUp?node-id=3-52&t=ZCuXN5TDsYLTzZ7y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A52).
 
