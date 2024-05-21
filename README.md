@@ -162,7 +162,11 @@ Término | Significado
 -----
 ### Origen y Motivación
 
-SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimiento gastronómico y fomentar la interacción social entre los amantes de la cocina. La inspiración surgió al observar que hay personas con necesidades y objetivos culinarios muy variados como Marta Sánchez, una señora mayor que busca entretenimiento y compañía tras la pérdida de su esposo, y Eric Bouba, un patinador profesional de Camerún que vive en Granada y necesita una manera de aliviar el estrés y conectar con otros a través de la cocina.
+SocialCooking es una plataforma innovadora diseñada para enriquecer el conocimiento gastronómico y fomentar la interacción social entre los amantes de la cocina. La inspiración surgió al observar que hay personas con necesidades y objetivos culinarios muy variados como Marta, una señora mayor que busca entretenimiento y compañía tras la pérdida de su esposo, y Eric, un patinador profesional de Camerún que vive en Granada y necesita una manera de aliviar el estrés y conectar con otros a través de la cocina.
+
+![Marta](P1/Marta_Sanchez.png)
+
+![Eric](P1/Eric_Bouba.png)
 
 ### Proceso Creativo y Desarrollo
 
