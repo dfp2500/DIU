@@ -5,14 +5,15 @@ Grupo: DIU2_ElCumpleDeMarta.  Curso: 2023/24
 Updated: 22/3/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+**SocialCooking**
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Pagina para la reserva y gestion de nuestros cursos gastronomicos en los que la gente pueda aprender sobre cocinas de diferentes culturas. Queremos que esta experiencia se sienta personal y compartible, para ello los usuarios dispondran de perfiles a modo de mini red social en la que puedan compartir con los demas multimedia y comentarios de los talleres a los que asisten. Estos perfiles seran muy personalizables de forma que cada persona pueda demostrar sus gustos a los demas. De esta forma se pretende crear una comunidad de amantas de la cocina que esten dispuestos a aprender y conocer gente nueva basada en sus gustos.
+
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+![Logo](Logo.png)
 
 Miembros
  * :bust_in_silhouette:   Daniel Fernández Jiménez     :octocat:     
