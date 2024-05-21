@@ -3,18 +3,25 @@
 
 ![Método UX](/img/moodboard.png) 3.a Moodboard
 -----
+Se ha dividido por partes el moodboard para que sea mas claro y conciso a la hora de buscar los elemnetos requeridos para el diseño. Los puntos mas importante a la hora del desarrollo del diseño han sido:
 
+- Logotipo: Se ha diseñado con la ayuda de herramientas de IA y Photoshop, llegando a un diseño minimalista y moderno, utilizando tonos rojos para destacar la pasión por la cocina. Incluye iconos de utensilios de cocina y una disposición que evoca la idea de comunidad y compartir. Ademas incluye dos versionesa color y en blanco y negro para una mayor versatilidad a la hora de usarlos.
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+- Paleta de Colores: Los colores principales son el rojo y el rosa, que representan la energía y la interacción social. El blanco, negro y gris se utilizan como colores neutros para equilibrar el diseño y aportar claridad y elegancia. De esta forma se logra transmitir calidez, pasión y profesionalismo, reforzando la temática culinaria de la plataforma.
 
+- Tipografía: Las fuente seleccionada "Lato" es moderna y legible. Ademas se especifica el tamaño que se debe usar para cada zona.
+
+- Imágenes Inspiracionales: Las imágenes elegidas muestran situaciones de cocina, platos atractivos y momentos de interacción social, reforzando la temática gastronómica y el sentido de comunidad que SocialCooking promueve ademas de servir de inspiracion para el desarrollo del estilo del producto.
+
+- Iconografía: Los iconos son simples y fácilmente reconocibles, utilizando el color rojo para mantener la coherencia visual. Representan diversas funciones de la aplicación, como navegación, perfil de usuario, y compartir contenido.
+
+![Moodboard](/P3/Moodboard.png)
 
 ![Método UX](/img/landing-page.png)  3.b Landing Page
 ----
+La landing page de SocialCooking está diseñada para captar la atención de los usuarios y resaltar las principales características y beneficios de la plataforma ofreciendo gran variedad de informacion y recursos para que el usuario pueda informarse como es debido del produco. Tambien, se aprovecha para incidir en el usuario la posibilidad de unirse facilmente a la comunidad a traves de la descarga de la aplicacion.
 
-
->>> Plantear Landing Page 
+![LandingPage](/P3/LandingPage.png)
 
 ![Método UX](/img/guidelines.png) 3.c Guidelines
 ----
@@ -24,9 +31,13 @@
 
 ![Método UX](/img/mockup.png)  3.d Mockup
 ----
+Suigiendo todo lo explicado previamente, se ha desarrollado finalmente un prototipo de la aplicacion con las partes mas importantes y necesarias de esta que sirven de ejemplo para hechar un pequeño vistazo a lo que esta comunidad gastronomica quiere ofrecer a sus usuarios.
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+![MockUp](/P3/MockUp.png)
 
+Ademas se ha diseñado de forma interactiva y puede ser probada [aquí](https://www.figma.com/proto/aRtI9ezTnWwBnwNhYpuuUx/MockUp?node-id=3-52&t=ZCuXN5TDsYLTzZ7y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A52)
+
+Añadimos un [video] probando las funcinalidades clave del prototipo.
 
 ![Método UX](/img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
@@ -78,13 +89,11 @@ Con los diseños iniciales, creamos un prototipo interactivo utilizando Figma. E
 
 El prototipo interactivo se puede ver [aquí](https://www.figma.com/proto/aRtI9ezTnWwBnwNhYpuuUx/MockUp?node-id=3-52&t=ZCuXN5TDsYLTzZ7y-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=3%3A52).
 
+Añadimos un [video] probando las funcinalidades clave del prototipo.
+
 ### Reflexiones y Resultados
 
 SocialCooking es el resultado de combinar nuestras experiencias con las necesidades de personas como Marta y Eric. La aplicación ofrece una manera accesible y atractiva de aprender nuevas habilidades culinarias y de conectar con otros apasionados por la cocina. A través de un diseño cuidadoso y una identidad visual coherente, hemos creado una plataforma fácil de usar y visualmente atractiva.
 
 SocialCooking no solo facilita el aprendizaje gastronómico, sino que también fortalece la comunidad entre sus usuarios, proporcionando una experiencia culinaria y social enriquecedora.
-
-
-
-(incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
