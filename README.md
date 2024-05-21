@@ -185,9 +185,25 @@ La landing page de SocialCooking está diseñada para captar la atención de los
 
 ![Método UX](/img/guidelines.png) 3.c Guidelines
 ----
+Para el diseño del prototipo se implementarán patrones de diseño siguiendo las guidelines de Google Material Design. Se han aplicado de la siguiente forma:
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+- **Onboarding**: En las primeras dos pantallas, se mostrará el logotipo de la aplicación y una bienvenida con opciones de "Iniciar sesión" y "Registrarse". Esto ayuda a los usuarios a orientarse y entender el propósito de la aplicación desde el principio.
+
+- **Menu (navBar adaptada a móvil)**: En todo momento una vez iniciada la sesión se mostrará una barra de navegación en la parte inferior con iconos que representan diferentes secciones de la aplicación: inicio, búsqueda y perfil. Esto facilita la navegación en dispositivos móviles.
+
+- **Hero image + Carousel**: La pantalla de cada taller muestra una imagen destacada (Hero image) que captura la atención del usuario donde se implementará un carrousel con el resto de las fotos de la galería de dicho taller.
+
+- **Search**: En la página principal habrá un campo de búsqueda que permite a los usuarios buscar talleres específicos que desean aprender. Esto mejora la experiencia del usuario al facilitar el acceso a la información deseada.
+
+- **Article List (5-7 Cards items)**: La misma pantalla principal también mostrará una lista de talleres disponibles en formato de tarjetas, donde cada tarjeta incluye una imagen, nivel, plazas disponibles y precio. Esto organiza la información de manera clara y atractiva.
+
+- **Item details + actions**: Al seleccionar un taller, se mostrará una pantalla con los detalles del mismo, incluyendo el nombre del taller, nivel, plazas restantes, precio, fecha, duración y descripción. También tendrá un botón de "Reservar" para que los usuarios puedan inscribirse directamente.
+
+- **Reserva**: En la pantalla de detalle del taller, el botón de "Reservar" permite a los usuarios inscribirse en el taller.
+
+- **Form Input**: Las pantallas de inicio de sesión y registro mostraran formularios donde los usuarios pueden ingresar su información, como correo electrónico, nombre de usuario y contraseña.
+
+- **About**: La pantalla de perfil del usuario incluirá una breve biografía y detalles personales.
 
 ![Método UX](/img/mockup.png)  3.d Mockup
 ----
