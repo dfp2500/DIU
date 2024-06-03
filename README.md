@@ -437,21 +437,36 @@ En la página de inscripción a un torneo del prototipo del caso B, los usuarios
 ![Método UX](/img/Survey.png) 4.d Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+![CuestionarioSUS](/P4/imgs/CuestionarioSUS.png)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
-
+Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejorar. De media llegan a la misma, por lo que ninguna queda por delante de la otra.
 
 ![Método UX](/img/usability-report.png) 4.e Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+Como conclusion del report de usabilidad basado en el resultado del cuestionario SUS para la práctica OTJM del grupo loqueteaptezca obtenemos lo siguiente: [Usability_Report](/P4/P4_UsabReport_OTJM_doneby_DIU2_ElCumpleDeMarta.pdf)
 
 
+La página es simple y fácil de comprender y utilizar, permitiendo que se adapte a la mayoría de las personas. Al tratarse de un prototipo aún quedaría por ver como funcionan algunas partes pero va bien encaminado.
 
->>> Valoración personal 
+
+En general está bien, pero se podrían mejorar los siguientes aspectos:
+
+
+-Hacer la interfaz algo más atractiva
+
+
+-Añadir algun tipo de búsqueda para los torneos
+
+
+-Permitir el filtrado de los torneos de alguna manera según lo que buscas
+
+
+-Algún tipo de perfil de usuario en el que poder guardar información sobre los torneos jugados, clasificación…
+
+
+-Algo de claridad sobre para que sirve registrarse en la web (si mantiene tus datos…)
+
 
 
 
