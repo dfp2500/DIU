@@ -162,17 +162,25 @@ En la página de inscripción a un torneo del prototipo del caso B, los usuarios
 ----
 ![CuestionarioSUS](imgs/CuestionarioSUS.png)
 
-Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejorar. De media llegan a la misma, por lo que ninguna queda por delante de la otra
+Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejorar. De media llegan a la misma, por lo que ninguna queda por delante de la otra.
 
 ![Método UX](/img/usability-report.png) 4.e Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
+La página es simple y fácil de comprender y utilizar, permitiendo que se adapte a la
+mayoría de las personas. Al tratarse de un prototipo aún quedaría por ver como
+funcionan algunas partes pero va bien encaminado.
 
-
->>> Valoración personal 
-
+En general está bien, pero se podrían mejorar los siguientes aspectos:
+-Hacer la interfaz algo más atractiva
+-Añadir algun tipo de búsqueda para los torneos
+-Permitir el filtrado de los torneos de alguna manera según lo que buscas
+-Algún tipo de perfil de usuario en el que poder guardar información sobre los
+torneos jugados, clasificación…
+-Algo de claridad sobre para que sirve registrarse en la web (si mantiene tus
+datos…)
 
 
 
