@@ -97,7 +97,57 @@ Por tanto la tabla propuesta con los datos de nuestros personajes queda tal que 
 | Carlos   | Hombre/45    | Dueño de un bar | Baja                 | Android    |                                                                                                                                                    | B    |           |
 
 
-![Método UX](/img/Survey.png) 4.c Cuestionario SUS
+![Método UX](/img/eye-tracking.png) 4.c Evaluación mediante Eye Tracking
+
+Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el guion de prácticas, para ello, vamos a analizar 3 páginas de nuestro prototipo y del de los compañeros poniendo puntos de interes relevantes en cada pagina y observando las mediciones tomadas en funcion de los usuarios que tomaran el experimento.
+
+Los usuarios que tomaran el experimento seran 3: dos de ellos somos los que hemos desarrollado el prototipo de este repositorio de github por lo cual tendremos ciertos conocimientos sobre diseño y ademas de nuestro prototipo. El ultimo sera un usuario anonimo sin experiencia previa en este campo.
+
+Hemos obtenido tres paginas para cada proyecto, siendo estas:
+[base1](imgs/base1.png)
+[base2](imgs/base2.png)
+[base3](imgs/base3.png)
+[base4](imgs/base4.png)
+[base5](imgs/base5.png)
+[base6](imgs/base6.png)
+
+Hemos asignado puntos de interes y hemos iniciado el experimento. Asi ha ido para cada usuario:
+
+## Daniel
+[dani1](imgs/dani1.png)
+[dani2](imgs/dani2.png)
+[dani3](imgs/dani3.png)
+[dani4](imgs/dani4.png)
+[dani5](imgs/dani5.png)
+[dani6](imgs/dani6.png)
+
+## Miguel
+[migue1](imgs/migue1.png)
+[migue2](imgs/migue2.png)
+[migue3](imgs/migue3.png)
+[migue4](imgs/migue4.png)
+[migue5](imgs/migue5.png)
+[migue6](imgs/migue6.png)
+
+## Usuario anonimo
+[usuario1](imgs/usuario1.png)
+[usuario2](imgs/usuario2.png)
+[usuario3](imgs/usuario3.png)
+[usuario4](imgs/usuario4.png)
+[usuario5](imgs/usuario5.png)
+[usuario6](imgs/usuario6.png)
+
+Por tanto los datos recabadas por los puntos de interes han sido estos:
+[interes1](imgs/interes1.png)
+[interes2](imgs/interes2.png)
+[interes3](imgs/interes3.png)
+[interes4](imgs/interes4.png)
+[interes5](imgs/interes5.png)
+[interes6](imgs/interes6.png)
+
+Observando estos datos podemos ver claramente que
+
+![Método UX](/img/Survey.png) 4.d Cuestionario SUS
 ----
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
@@ -107,7 +157,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
 
-![Método UX](/img/usability-report.png) 4.d Usability Report
+![Método UX](/img/usability-report.png) 4.e Usability Report
 ----
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
