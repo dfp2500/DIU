@@ -1,21 +1,64 @@
-# DIU - Practica 4, entregables
+## Paso 4. Evaluación 
+
+
+![Método UX](img/ABtesting.png) 4.a Caso asignado
+----
+
+
+>>> Breve descripción del caso asignado con enlace a  su repositorio Github
+
+
+![Método UX](img/usability-testing.png) 4.b User Testing
+----
+
+>>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+ 
+
+| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
+| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
+| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
+| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
+| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
+| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+
+
+![Método UX](img/Survey.png) 4.c Cuestionario SUS
+----
+
+>>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
+http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
+Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+
+>>> Adjuntar captura de imagen con los resultados + Valoración personal 
+
+
+![Método UX](img/usability-report.png) 4.d Usability Report
+----
+
+>> Añadir report de usabilidad para práctica B (la de los compañeros)
 
 
 
-Revisar [Asignacion_ABtesting](https://github.com/mgea/DIU/blob/master/P4/Asignacion_ABtesting.pdf)
-Lista de grupos 
-
-* Users 
-
-Elección y características
-
-* A/B Testing. 
+>>> Valoración personal 
 
 
-* Tareas realizadas 
 
 
-* Usability Report de Caso B
-* Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 
-* Conclusiones
+5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+----
+
+
+>> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
+>> con los resultados del A/B testing, de eye tracking y del usability report:
+>>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
+
+
+
+
+
+## Conclusión final / Valoración de las prácticas
+
+
+>>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
