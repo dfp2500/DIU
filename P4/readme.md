@@ -91,10 +91,10 @@ Por tanto la tabla propuesta con los datos de nuestros personajes queda tal que 
 
 | Id       | Sexo/Edad    | Ocupación       | Experiencia Internet | Plataforma | Perfil cubierto                                                                                                                                    | TEST | SUS score |
 |----------|--------------|-----------------|----------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------|
-| Agustín  | Hombre/37    | Teleoperador    | Alta                 | Windows    | Hombre en silla de ruedas que ha encontrado en la fotografía una pasión que le permite expresarse y conectar con el mundo. Está triste porque siente que la plataforma tiene potencial pero no incluye información sobre accesibilidad. | A    |           |
-| Ana      | Mujer/20     | Estudiante      | Alta                 | Android    | Estudiante universitaria sociable pero que ha desarrollado miedo a nuevas experiencias debido a una mala experiencia anterior. Le ha resultado una buena experiencia ya que antes de ir a un taller puede hablar con otras personas, ver contenidos y conocer las experiencias de otros usuarios. | A    |           |
-| Ahmed    | Hombre/35    | Informático     | Alta                 | Linux      |                                                                                                                                                    | B    |           |
-| Carlos   | Hombre/45    | Dueño de un bar | Baja                 | Android    |                                                                                                                                                    | B    |           |
+| Agustín  | Hombre/37    | Teleoperador    | Alta                 | Windows    | Hombre en silla de ruedas que ha encontrado en la fotografía una pasión que le permite expresarse y conectar con el mundo. Está triste porque siente que la plataforma tiene potencial pero no incluye información sobre accesibilidad. | A    | 75          |
+| Ana      | Mujer/20     | Estudiante      | Alta                 | Android    | Estudiante universitaria sociable pero que ha desarrollado miedo a nuevas experiencias debido a una mala experiencia anterior. Le ha resultado una buena experiencia ya que antes de ir a un taller puede hablar con otras personas, ver contenidos y conocer las experiencias de otros usuarios. | A    | 85          |
+| Ahmed    | Hombre/35    | Informático     | Alta                 | Linux      | Extranjero que trata de socializar, frustrado porque no entiende bien el idioma de la página y le está costando tener que ir traduciendo por su cuenta la información | B    | 87.5          |
+| Carlos   | Hombre/45    | Dueño de un bar | Baja                 | Android    | Padre ocupado y estresado por el trabajo que busca socializar y hacer actividades con su familia. Está triste porque los torneos no se ajustan bien a sus horarios y no puede filtrar los que permiten participar adultos y niños a la vez. | B    | 72.5          |
 
 
 ![Método UX](/img/eye-tracking.png) 4.c Evaluación mediante Eye Tracking
@@ -149,7 +149,14 @@ Por tanto los datos recabadas por los puntos de interes han sido estos:
 ![interes5](imgs/interes5.png)
 ![interes6](imgs/interes6.png)
 
-Observando estos datos podemos ver claramente que
+Observando estos datos podemos ver claramente que:
+
+
+En la página de perfil de nuestro prototipo todos los usuarios han pasado por alto el botón de logout y solo Daniel ha visto la sección de comentarios. En la página del taller solo el usuario anónimo se ha fijado en el título de este y nadie en el botón de agregar favoritos. En la página principal vemos que el buscador resalta ya que todos le han prestado bastante atención, en cambio el calendario ha pasado desapercibido.
+
+
+En la página de inscripción a un torneo del prototipo del caso B, los usuarios pasan por alto la opción de iniciar sesión pero sorprendentemente ven claramente el mensaje sobre el método de pago. En la página de información sobre un torneo se vuelve a pasar por alto la opción de inicio de sesión y el título solo es visto por Daniel. En la página de inicio esta vez el botón de inicio de sesión es visto por Miguel y se presta atención a la barra de navegación y a la foto de los torneos.
+
 
 ![Método UX](/img/Survey.png) 4.d Cuestionario SUS
 ----
