@@ -104,7 +104,7 @@ Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el
 Los usuarios que tomaran el experimento seran 3: dos de ellos somos los que hemos desarrollado el prototipo de este repositorio de github por lo cual tendremos ciertos conocimientos sobre diseño y ademas de nuestro prototipo. El ultimo sera un usuario anonimo sin experiencia previa en este campo.
 
 Hemos obtenido tres paginas para cada proyecto, siendo estas:
-[base1](imgs/base1.png)
+(imgs/base1.png)
 [base2](imgs/base2.png)
 [base3](imgs/base3.png)
 [base4](imgs/base4.png)
