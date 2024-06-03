@@ -169,18 +169,28 @@ Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejor
 
 >> Añadir report de usabilidad para práctica B (la de los compañeros)
 
-La página es simple y fácil de comprender y utilizar, permitiendo que se adapte a la
-mayoría de las personas. Al tratarse de un prototipo aún quedaría por ver como
-funcionan algunas partes pero va bien encaminado.
+Como conclusion del report de usabilidad basado en el resultado del cuestionario SUS para la práctica OTJM del grupo loqueteaptezca obtenemos lo siguiente:
+
+
+La página es simple y fácil de comprender y utilizar, permitiendo que se adapte a la mayoría de las personas. Al tratarse de un prototipo aún quedaría por ver como funcionan algunas partes pero va bien encaminado.
+
 
 En general está bien, pero se podrían mejorar los siguientes aspectos:
+
+
 -Hacer la interfaz algo más atractiva
+
+
 -Añadir algun tipo de búsqueda para los torneos
+
+
 -Permitir el filtrado de los torneos de alguna manera según lo que buscas
--Algún tipo de perfil de usuario en el que poder guardar información sobre los
-torneos jugados, clasificación…
--Algo de claridad sobre para que sirve registrarse en la web (si mantiene tus
-datos…)
+
+
+-Algún tipo de perfil de usuario en el que poder guardar información sobre los torneos jugados, clasificación…
+
+
+-Algo de claridad sobre para que sirve registrarse en la web (si mantiene tus datos…)
 
 
 
