@@ -104,46 +104,46 @@ Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el
 Los usuarios que tomaran el experimento seran 3: dos de ellos somos los que hemos desarrollado el prototipo de este repositorio de github por lo cual tendremos ciertos conocimientos sobre diseño y ademas de nuestro prototipo. El ultimo sera un usuario anonimo sin experiencia previa en este campo.
 
 Hemos obtenido tres paginas para cada proyecto, siendo estas:
-(imgs/base1.png)
-[base2](imgs/base2.png)
-[base3](imgs/base3.png)
-[base4](imgs/base4.png)
-[base5](imgs/base5.png)
-[base6](imgs/base6.png)
+![base1](imgs/base1.png)
+![base2](imgs/base2.png)
+![base3](imgs/base3.png)
+![base4](imgs/base4.png)
+![base5](imgs/base5.png)
+![base6](imgs/base6.png)
 
 Hemos asignado puntos de interes y hemos iniciado el experimento. Asi ha ido para cada usuario:
 
 ## Daniel
-[dani1](imgs/dani1.png)
-[dani2](imgs/dani2.png)
-[dani3](imgs/dani3.png)
-[dani4](imgs/dani4.png)
-[dani5](imgs/dani5.png)
-[dani6](imgs/dani6.png)
+![dani1](imgs/dani1.png)
+![dani2](imgs/dani2.png)
+![dani3](imgs/dani3.png)
+![dani4](imgs/dani4.png)
+![dani5](imgs/dani5.png)
+![dani6](imgs/dani6.png)
 
 ## Miguel
-[migue1](imgs/migue1.png)
-[migue2](imgs/migue2.png)
-[migue3](imgs/migue3.png)
-[migue4](imgs/migue4.png)
-[migue5](imgs/migue5.png)
-[migue6](imgs/migue6.png)
+![migue1](imgs/migue1.png)
+![migue2](imgs/migue2.png)
+![migue3](imgs/migue3.png)
+![migue4](imgs/migue4.png)
+![migue5](imgs/migue5.png)
+![migue6](imgs/migue6.png)
 
 ## Usuario anonimo
-[usuario1](imgs/usuario1.png)
-[usuario2](imgs/usuario2.png)
-[usuario3](imgs/usuario3.png)
-[usuario4](imgs/usuario4.png)
-[usuario5](imgs/usuario5.png)
-[usuario6](imgs/usuario6.png)
+![usuario1](imgs/usuario1.png)
+![usuario2](imgs/usuario2.png)
+![usuario3](imgs/usuario3.png)
+![usuario4](imgs/usuario4.png)
+![usuario5](imgs/usuario5.png)
+![usuario6](imgs/usuario6.png)
 
 Por tanto los datos recabadas por los puntos de interes han sido estos:
-[interes1](imgs/interes1.png)
-[interes2](imgs/interes2.png)
-[interes3](imgs/interes3.png)
-[interes4](imgs/interes4.png)
-[interes5](imgs/interes5.png)
-[interes6](imgs/interes6.png)
+![interes1](imgs/interes1.png)
+![interes2](imgs/interes2.png)
+![interes3](imgs/interes3.png)
+![interes4](imgs/interes4.png)
+![interes5](imgs/interes5.png)
+![interes6](imgs/interes6.png)
 
 Observando estos datos podemos ver claramente que
 
