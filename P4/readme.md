@@ -5,21 +5,96 @@
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Se nos ha asignado el caso del equipo DIU1_LoQueTeApetezca, el cual ha desarrollado una organización donde se crean torneos de juegos de mesa tanto para nuevos jugadores y experimentados, con el fín de acercar a mas gente al mundo de los juegos de mesa.
+
+El enlace a su github es: https://github.com/DIU1-loqueteapetezca/DIU
 
 
 ![Método UX](/img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+[Dado](imgs/dado.png)
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+Con la ayuda del sistema propuesto para la creacion de personas ficticias hemos creado 4 personas las cuales dos han sido asignadas a analizar el caso A (el nuestro) y las otras 2 el caso B (el del equipo que se nos ha asignado evaluar). Las personas que hemos creado han sido:
+
+## Persona 1: Discapacitado, le gusta la fotografía y está triste (4,5,6)
+
+### Descripción:
+- **Nombre:** Agustin Martinez
+- **Edad:** 37 años
+- **Situación:** Luis es un hombre en silla de ruedas que ha encontrado en la fotografía una pasión que le permite expresarse y conectar con el mundo. Últimamente ha estado triste debido a la falta de actividades inclusivas y de socialización en su entorno.
+
+### Necesidades en la plataforma:
+1. **Accesibilidad:**
+   - La plataforma debe ser completamente accesible, con compatibilidad para lectores de pantalla y navegación simplificada.
+2. **Opción de talleres accesibles:**
+   - Información clara sobre qué talleres están adaptados para personas con discapacidad.
+3. **Función social:**
+   - Opciones para conectar con otros participantes antes y después de los talleres, permitiendo la formación de una comunidad.
+4. **Integración de intereses:**
+   - Oportunidades para incorporar su interés en la fotografía, como talleres que combinen cocina y fotografía.
+
+## Persona 2: Persona amistosa, estudiante, con miedo (3,1,2)
+
+### Descripción:
+- **Nombre:** Ana López
+- **Edad:** 22 años
+- **Situación:** Ana es una estudiante universitaria sociable pero que ha desarrollado miedo a nuevas experiencias debido a una mala experiencia anterior. Busca formas de superar sus miedos y conocer gente nueva.
+
+### Necesidades en la plataforma:
+1. **Seguridad y confianza:**
+   - Información detallada sobre los talleres, los instructores y las medidas de seguridad.
+2. **Valoraciones y testimonios:**
+   - Opiniones de otros usuarios que ayuden a reducir su miedo al participar.
+3. **Interacción social:**
+   - Espacios para interactuar con otros estudiantes, como foros o grupos de chat.
+4. **Flexibilidad:**
+   - Opciones para probar talleres gratuitos o de bajo costo antes de comprometerse con algo más grande.
+
+## Persona 3: Trabajador, extranjero, enfadado (5,2,1)
+
+### Descripción:
+- **Nombre:** Ahmed Hassan
+- **Edad:** 35 años
+- **Situación:** Ahmed es un profesional que se mudó a un nuevo país por trabajo. Se siente frustrado y enfadado por las barreras culturales y la dificultad para adaptarse.
+
+### Necesidades en la plataforma:
+1. **Multilingüe:**
+   - La plataforma debe estar disponible en varios idiomas, incluyendo su idioma nativo.
+2. **Integración cultural:**
+   - Torneos y juegos que incluyan elementos de su cultura de origen o que fomenten la integración cultural.
+3. **Servicio al cliente:**
+   - Soporte eficiente y amable para resolver cualquier problema técnico o duda.
+4. **Función social:**
+   - Eventos y torneos sociales que permitan a Ahmed conocer personas en situaciones similares y crear una red de apoyo.
+
+## Persona 4: Padre de familia, con un horario apretado, triste (2,4,6)
+
+### Descripción:
+- **Nombre:** Carlos Fernández
+- **Edad:** 45 años
+- **Situación:** Carlos es un padre de familia con un trabajo demandante y poco tiempo libre. Su estrés y tristeza provienen de la falta de tiempo para disfrutar de actividades en familia.
+
+### Necesidades en la plataforma:
+1. **Flexibilidad horaria:**
+   - Torneos en horarios variados y opciones para inscripciones de última hora.
+2. **Actividades familiares:**
+   - Torneos diseñados para que puedan participar adultos y niños juntos.
+3. **Recordatorios y organización:**
+   - Herramientas para gestionar su tiempo, como recordatorios automáticos y sincronización con calendarios.
+4. **Función social:**
+   - Opciones para conocer a otras familias con intereses similares, facilitando el desarrollo de una red de apoyo y amistad.
+
+Por tanto la tabla propuesta con los datos de nuestros personajes queda tal que asi:
+
+# Resultados del Test de Usuarios
+
+| Id       | Sexo/Edad    | Ocupación       | Experiencia Internet | Plataforma | Perfil cubierto                                                                                                                                    | TEST | SUS score |
+|----------|--------------|-----------------|----------------------|------------|----------------------------------------------------------------------------------------------------------------------------------------------------|------|-----------|
+| Agustín  | Hombre/37    | Teleoperador    | Alta                 | Windows    | Hombre en silla de ruedas que ha encontrado en la fotografía una pasión que le permite expresarse y conectar con el mundo. Está triste porque siente que la plataforma tiene potencial pero no incluye información sobre accesibilidad. | A    |           |
+| Ana      | Mujer/20     | Estudiante      | Alta                 | Android    | Estudiante universitaria sociable pero que ha desarrollado miedo a nuevas experiencias debido a una mala experiencia anterior. Le ha resultado una buena experiencia ya que antes de ir a un taller puede hablar con otras personas, ver contenidos y conocer las experiencias de otros usuarios. | A    |           |
+| Ahmed    | Hombre/35    | Informático     | Alta                 | Linux      |                                                                                                                                                    | B    |           |
+| Carlos   | Hombre/45    | Dueño de un bar | Baja                 | Android    |                                                                                                                                                    | B    |           |
 
 
 ![Método UX](/img/Survey.png) 4.c Cuestionario SUS
