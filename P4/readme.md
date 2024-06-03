@@ -160,14 +160,13 @@ En la página de inscripción a un torneo del prototipo del caso B, los usuarios
 
 ![Método UX](/img/Survey.png) 4.d Cuestionario SUS
 ----
+
 ![CuestionarioSUS](imgs/CuestionarioSUS.png)
 
 Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejorar. De media llegan a la misma, por lo que ninguna queda por delante de la otra.
 
 ![Método UX](/img/usability-report.png) 4.e Usability Report
 ----
-
->> Añadir report de usabilidad para práctica B (la de los compañeros)
 
 Como conclusion del report de usabilidad basado en el resultado del cuestionario SUS para la práctica OTJM del grupo loqueteaptezca obtenemos lo siguiente:
 
