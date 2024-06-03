@@ -168,7 +168,7 @@ Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejor
 ![Método UX](/img/usability-report.png) 4.e Usability Report
 ----
 
-Como conclusion del report de usabilidad basado en el resultado del cuestionario SUS para la práctica OTJM del grupo loqueteaptezca obtenemos lo siguiente:
+Como conclusion del report de usabilidad basado en el resultado del cuestionario SUS para la práctica OTJM del grupo loqueteaptezca obtenemos lo siguiente: [Usability_Report](P4_UsabReport_OTJM_doneby_DIU2_ElCumpleDeMarta.pdf)
 
 
 La página es simple y fácil de comprender y utilizar, permitiendo que se adapte a la mayoría de las personas. Al tratarse de un prototipo aún quedaría por ver como funcionan algunas partes pero va bien encaminado.
@@ -198,9 +198,10 @@ En general está bien, pero se podrían mejorar los siguientes aspectos:
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+- A/B Testing: Este método nos permitió comparar dos versiones del diseño para determinar cuál proporcionaba una mejor experiencia de usuario. Observamos que ambas versiones consiguen puntuaciones similares para varios tipos de usuarios y necesidades.
+- Eye Tracking: Con eye tracking, pudimos identificar las áreas que capturaban más atención y aquellas que fueron ignoradas. En nuestro prototipo, descubrimos que elementos clave como botones de logout y secciones de comentarios fueron pasados por alto. Este feedback es crucial para realizar ajustes en el diseño, asegurando que todos los elementos importantes sean visibles y accesibles. Mediante los puntos de interes pudimos ver que ambos casos necesitan potenciar la visibilidad de elementos determinados.
+- Usability Report: Este informe nos proporcionó una visión detallada de la experiencia del usuario, destacando puntos fuertes y áreas de mejora para el caso B. El feedback indicó la necesidad de mejorar la navegación y la presentación de información para asegurar que los usuarios puedan interactuar con la plataforma de manera eficiente, ademas de claridad y una forma de guardar la informacion relevante para el usuario cosa destacable de nuestro prototipo.
+
 
 
 
@@ -209,5 +210,4 @@ En general está bien, pero se podrían mejorar los siguientes aspectos:
 
 ## Conclusión final / Valoración de las prácticas
 
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
+El proceso de evaluación mediante técnicas como A/B testing, eye tracking y usability reports ha sido extremadamente valioso para entender cómo los usuarios interactúan con la plataforma y qué mejoras son necesarias. Hemos aprendido que la accesibilidad y la claridad en la información son fundamentales para una buena experiencia de usuario. Además, la importancia de pruebas continuas y la incorporación de feedback directo de los usuarios se ha hecho evidente. En general, este proceso ha resaltado la importancia de un enfoque centrado en el usuario en el desarrollo de plataformas digitales, lo que nos ha llevado a realizar ajustes significativos que mejorarán la satisfacción y el compromiso de los usuarios con la plataforma.
