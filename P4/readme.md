@@ -98,6 +98,7 @@ Por tanto la tabla propuesta con los datos de nuestros personajes queda tal que 
 
 
 ![Método UX](/img/eye-tracking.png) 4.c Evaluación mediante Eye Tracking
+----
 
 Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el guion de prácticas, para ello, vamos a analizar 3 páginas de nuestro prototipo y del de los compañeros poniendo puntos de interes relevantes en cada pagina y observando las mediciones tomadas en funcion de los usuarios que tomaran el experimento.
 
