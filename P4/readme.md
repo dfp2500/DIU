@@ -160,7 +160,7 @@ En la página de inscripción a un torneo del prototipo del caso B, los usuarios
 
 ![Método UX](/img/Survey.png) 4.d Cuestionario SUS
 ----
-![interes1](imgs/CuestionarioSUS.png)
+![CuestionarioSUS](imgs/CuestionarioSUS.png)
 
 Ambas páginas obtienen una buena puntuación, pese a que aún se podrían mejorar. De media llegan a la misma, por lo que ninguna queda por delante de la otra
 
