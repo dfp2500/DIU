@@ -13,7 +13,7 @@ El enlace a su github es: https://github.com/DIU1-loqueteapetezca/DIU
 ![Método UX](/img/usability-testing.png) 4.b User Testing
 ----
 
-[Dado](imgs/dado.png)
+![Dado](imgs/dado.png)
 
 Con la ayuda del sistema propuesto para la creacion de personas ficticias hemos creado 4 personas las cuales dos han sido asignadas a analizar el caso A (el nuestro) y las otras 2 el caso B (el del equipo que se nos ha asignado evaluar). Las personas que hemos creado han sido:
 
@@ -104,6 +104,8 @@ Para el experimento vamos a usar Gaze Recorder, la herramienta recomendada en el
 Los usuarios que tomaran el experimento seran 3: dos de ellos somos los que hemos desarrollado el prototipo de este repositorio de github por lo cual tendremos ciertos conocimientos sobre diseño y ademas de nuestro prototipo. El ultimo sera un usuario anonimo sin experiencia previa en este campo.
 
 Hemos obtenido tres paginas para cada proyecto, siendo estas:
+
+
 ![base1](imgs/base1.png)
 ![base2](imgs/base2.png)
 ![base3](imgs/base3.png)
@@ -138,6 +140,8 @@ Hemos asignado puntos de interes y hemos iniciado el experimento. Asi ha ido par
 ![usuario6](imgs/usuario6.png)
 
 Por tanto los datos recabadas por los puntos de interes han sido estos:
+
+
 ![interes1](imgs/interes1.png)
 ![interes2](imgs/interes2.png)
 ![interes3](imgs/interes3.png)
